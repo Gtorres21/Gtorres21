@@ -1,6 +1,17 @@
-<div style ="text-align:center;">
-<h1  style ="text-align:center;">Hi! I'm Giovanni Torres 👋</h1>
-</div>
+
+<h1>Hi! I'm Giovanni Torres 👋</h1>
+<hr>
+Full stack Developer passionate about learning and building new techonogies. | 
+
+
+
+
+
+
+
+<hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtorres21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
