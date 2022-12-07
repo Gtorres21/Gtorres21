@@ -2,8 +2,6 @@
 <h1 align="center">Hello I'm Giovanni Torres 👋</h1>
 <h3 align="center">Full stack Developer passionate about learning and building new techonogies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gtorres21" alt="gtorres21" /></a> </p>
-
 - 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **React Native**
