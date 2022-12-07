@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello I'm Giovanni Torres 👋</h1>
 <h3 align="center">Full stack Developer passionate about learning and building new techonogies</h3>
-
+<div align="center">
 - 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **React Native**
@@ -11,6 +11,7 @@
 - 💬 Ask me about **my Experience at Coding Dojo.**
 
 - 📫 How to reach me **giovannytorres21@gmail.co** 📩
+</div>
 
 <h3 align="center">Connect with me: <a href="https://www.linkedin.com/in/giovanni-torres-50a7bb24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovanni torres" height="30" width="40" /></a></h3>
 
