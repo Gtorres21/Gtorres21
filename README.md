@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi! I'm Giovanni Torres 👋</h1>
 <hr>
-Full stack Developer passionate about learning and building new techonogies. | 
+<h2 align="center">Full stack Developer passionate about learning and building new techonogies </h2> 
 
 
 
