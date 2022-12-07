@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **my Experience at Coding Dojo.**
 
-- 📫 How to reach me **giovannytorres21@gmail.com**
+- 📫 How to reach me **giovannytorres21@gmail.co** 📩
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
