@@ -7,7 +7,7 @@
 
 <h2>Languages and Tools that I've used:</h2>
 
-![](https://img.shields.io/badge/Code>-<HTML5>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ #E34F26 Code-HTML5-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 <hr>
 
