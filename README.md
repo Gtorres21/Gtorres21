@@ -1,7 +1,5 @@
-[![Header](https://raw.githubusercontent.com/Gtorres21/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
-
-### Hi there 👋
+Hi! I'm Giovanni Torres 👋
 
 <!--
 **Gtorres21/Gtorres21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
