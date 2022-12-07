@@ -11,7 +11,7 @@ Full stack Developer passionate about learning and building new techonogies. |
 
 <hr>
 
-<img align="center" src=(https://github-readme-stats.vercel.app/api/top-langs/?username=Gtorres21&layout=compact) />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gtorres21&layout=compact"/>
 
 
 
