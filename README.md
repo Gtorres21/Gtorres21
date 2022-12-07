@@ -3,11 +3,10 @@
 <hr>
 <h2 align="center">Full stack Developer passionate about learning and building new techonogies </h2> 
 
+<hr>
 
-
-
-
-
+<h2>Langues and Tools that I've used:</h2>
+<hr>
 
 <hr>
 
