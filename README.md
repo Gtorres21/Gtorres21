@@ -11,7 +11,7 @@ Full stack Developer passionate about learning and building new techonogies. |
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Gtorres21=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtorres21](https://github.com/anuraghazra/github-readme-stats)
 
 
 
