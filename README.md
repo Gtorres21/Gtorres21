@@ -6,7 +6,8 @@
 <hr>
 
 <h2>Langues and Tools that I've used:</h2>
-<hr>
+<img src="https://img.shields.io/badge/<Code>-<HTML5>-informational?style=flat&logo=<HTML5>&logoColor=white&color=2bbc8a"></img>
+
 
 <hr>
 
