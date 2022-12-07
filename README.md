@@ -11,7 +11,7 @@
 
  💬 Ask me about **my Experience at Coding Dojo.**
 
- 📫 How to reach me **giovannytorres21@gmail.co** 📩
+ 📫 How to reach me **giovannytorres21@gmail.com** 📩
 </div>
 
 <h3 align="center">Connect with me: <a href="https://www.linkedin.com/in/giovanni-torres-50a7bb24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giovanni torres" height="30" width="40" /></a></h3>
