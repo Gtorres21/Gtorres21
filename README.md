@@ -10,7 +10,9 @@ Full stack Developer passionate about learning and building new techonogies. |
 
 
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtorres21)](https://github.com/Gtorres21/github-readme-stats)
+
+<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtorres21)](https://github.com/Gtorres21/github-readme-stats)">
+
 
 
 <!--
